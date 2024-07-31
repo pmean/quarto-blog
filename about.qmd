@@ -1,0 +1,16 @@
+---
+title: "Who is Professor Mean?"
+image: "images/professor-mean.png"
+about:
+  template: marquee
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/pmean
+---
+
+Professor Mean is the alter-ego of Steve Simon on the Internet. For those who don't get the joke, I point out that Professor Mean isn't just your average professor.
+
+A bit of history. I started writing web pages in December of 1998. Most of the pages were informational handouts that I prepared for one client and which I thought might be useful to others. I'd write two or three pages a week. Sometimes a bit more and sometimes a bit less. Over the years, this has amounted to well over two thousand pages.
+
+The quality of the pages is uneven, with some pages nicely formatted and others very rough around the edges. I am working on a transition to a blog format using Quarto, but I am keeping the old pages around for a while, at least until the transition is complete.
